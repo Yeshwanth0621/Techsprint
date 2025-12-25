@@ -61,14 +61,14 @@ Your project README.md must include:
 - Technology 3
 
 ## Installation
-\`\`\`bash
+```bash
 # Installation steps
-\`\`\`
+```
 
 ## Usage
-\`\`\`bash
+```bash
 # How to run the project
-\`\`\`
+```
 
 ## Screenshots
 [Add screenshots here]
