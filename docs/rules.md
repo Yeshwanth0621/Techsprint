@@ -95,8 +95,8 @@ Teams may be disqualified for:
 ## Contact
 
 For any clarifications or queries:
-- Email: [contact email]
-- Communication Channel: [Discord/Slack]
+- Email: [To be announced]
+- Communication Channel: [To be announced]
 - Help Desk: Available at the venue
 
 ---

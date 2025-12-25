@@ -22,7 +22,7 @@ Techsprint is a hackathon designed to foster innovation, creativity, and problem
 - Basic knowledge of programming and development tools
 
 ### Registration
-1. Register your team through [registration link]
+1. Register your team through [To be announced]
 2. Join our communication channel for updates
 3. Review the problem statements and guidelines
 
@@ -64,8 +64,8 @@ Techsprint/
 ## 📞 Contact
 
 For questions or support, please contact:
-- **Email:** [contact email]
-- **Discord/Slack:** [communication channel]
+- **Email:** [To be announced]
+- **Communication Channel:** [To be announced]
 
 ## 📜 License
 
